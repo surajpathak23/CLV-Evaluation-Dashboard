@@ -7,7 +7,7 @@ from sklearn.ensemble import RandomForestClassifier
 
 # Sample dataset
 # file_path = "C:\Users\PRATI\Desktop\Xplore Training\Python Introduce Overview\Day_17 - 24th_July\sample_customer_data.csv"  # Update with your actual file path
-df = pd.read_csv('sample_customer_data.csv')  # Must contain 'features' & 'target' columns
+df = pd.read_csv('customer_clv_data.csv')  # Must contain 'features' & 'target' columns
 # print(df.head())
 
 
