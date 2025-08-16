@@ -27,3 +27,9 @@ This project is a machine learning web app built using **Streamlit** to evaluate
 To run locally:
 ```bash
 streamlit run clv_dashboard.py
+```
+
+✍️ Author
+Suraj Kumar
+
+- [LinkedIn](https://www.linkedin.com/in/suraj-kumar-2307skp/)
